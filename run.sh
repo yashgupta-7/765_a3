@@ -1,0 +1,2 @@
+python3 MyDeployContract.py > MyContractAddressList
+python3 MySendTransaction.py
